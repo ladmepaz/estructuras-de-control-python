@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Test test_func_aplicar_filtro_convolucion",
+      "run": "pytest tests/test_func_ejercicio01.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_aplicar_filtro",
+      "run": "pytest tests/test_func_ejercicio02.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_aplicar_mascara",
+      "run": "pytest tests/test_func_ejercicio03.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_binariza",
+      "run": "pytest tests/test_func_ejercicio04.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_detecta_bordes",
+      "run": "pytest tests/test_func_ejercicio05.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_normaliza",
+      "run": "pytest tests/test_func_ejercicio06.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_nueva_resolucion",
+      "run": "pytest tests/test_func_ejercicio07.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_transformar_color",
+      "run": "pytest tests/test_func_ejercicio08.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_transformar_color",
+      "run": "pytest tests/test_func_ejercicio09.py",
+      "points": 1
+    },
+    {
+      "name": "Test test_func_transformar_color",
+      "run": "pytest tests/test_func_ejercicio10.py",
+      "points": 1
+    }
+  ]
+}
